@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-Interactive Excel Dashboard analyzing total sales, delivery status, and product sub-category performance.
+Sales Dashboard Analysis
+Project Overview
+This repository contains an interactive Sales Dashboard built using Microsoft Excel.
+The dashboard provides a comprehensive view of total sales performance, regional insights, product analysis, and customer behavior.
+It visualizes key business metrics and helps identify trends, high-performing categories, and areas for improvement.
