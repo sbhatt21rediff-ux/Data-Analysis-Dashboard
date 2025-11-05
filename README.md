@@ -19,14 +19,24 @@ https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/raw/main/Sales_Data
 9. What relationship exists between net sales and quantity sold across product sub-categories?
 10. Which specific regions or product categories exhibit lower sales performance, indicating areas for business improvement?
 
-## Dashboard Interaction
+## Dashboard View
 https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.png
 
 ## Process Involved
--Collected and organized raw sales data in Excel (Order ID, Category, Region, Sales, etc.).
--Cleaned and formatted data — removed duplicates, corrected categories, added calculated fields like Net Sales.
--Created multiple Pivot Tables to summarize sales by region, status, and category.
--Built interactive visuals using Pivot Charts (Column, Combo, Treemap, Pie).
--Added Slicers for dynamic filtering (Region, Category, Order Status).
--Applied professional formatting, consistent colors, and clear labels.
--Finalized and published the dashboard for interactive Excel analysis.
+1.Collected and organized raw sales data in Excel (Order ID, Category, Region, Sales, etc.).
+
+2.Cleaned and formatted data — removed duplicates, corrected categories, added calculated fields like Net Sales.
+
+3.Created multiple Pivot Tables to summarize sales by region, status, and category.
+
+4 Built interactive visuals using Pivot Charts (Column, Combo, Treemap, Pie).
+
+5 Added Slicers for dynamic filtering (Region, Category, Order Status).
+
+6 Applied professional formatting, consistent colors, and clear labels.
+
+7 Finalized and published the dashboard for interactive Excel analysis.
+
+## Dashobard
+<img width="1892" height="963" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0f3f6760-7396-44ff-94ef-12fab8d71ed4" />
+
