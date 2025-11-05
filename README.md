@@ -45,7 +45,7 @@ https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/blob/main/Sales%20D
 - Insights reveal that the West region and Electronics category lead in total sales, with Online and Card payments dominating transactions.
 - Delivered orders form the majority share, reflecting strong operational efficiency, while Home Décor and Beauty show areas for growth.
 - Overall, the dashboard enables quick, data-driven decisions by highlighting top-performing segments and identifying opportunities for improvement.
-- 
+  
 ## Conclusion
 
 The analysis reveals that the West region and Electronics category drive the highest sales, supported by strong online and card-based transactions. Delivered orders dominate overall performance, highlighting effective operations, while lower-performing categories such as Home Décor and Beauty present growth opportunities. Overall, the dashboard offers clear, data-backed insights for improving sales strategies and business efficiency.
