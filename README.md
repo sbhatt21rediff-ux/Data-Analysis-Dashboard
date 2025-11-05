@@ -37,7 +37,7 @@ https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/blob/main/Sales%20D
 
 7. Finalized and published the dashboard for interactive Excel analysis.
 
-## Dashobard
+## Dashboard
 <img width="1892" height="963" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0f3f6760-7396-44ff-94ef-12fab8d71ed4" />
 
 ## Project Insights
