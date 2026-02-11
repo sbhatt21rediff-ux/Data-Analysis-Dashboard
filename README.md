@@ -19,8 +19,6 @@ This repository contains an interactive Sales Dashboard built using Microsoft Ex
 9. What relationship exists between net sales and quantity sold across product sub-categories?
 10. Which specific regions or product categories exhibit lower sales performance, indicating areas for business improvement?
 
-## Dashboard View
-https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.png
 
 ## Process Involved
 1. Collected and organized raw sales data in Excel (Order ID, Category, Region, Sales, etc.).
@@ -37,9 +35,9 @@ https://github.com/sbhatt21rediff-ux/Data-Analysis-Dashboard/blob/main/Sales%20D
 
 7. Finalized and published the dashboard for interactive Excel analysis.
 
-## Dashboard
-<img width="1892" height="963" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0f3f6760-7396-44ff-94ef-12fab8d71ed4" />
-
+## Dashboard View
+![Dashboard View](Sales Dashboard.png)
+---
 ## Project Insights
 - This Excel Sales Dashboard provides a clear view of business performance across regions, products, channels, and payment modes.
 - Insights reveal that the West region and Electronics category lead in total sales, with Online and Card payments dominating transactions.
