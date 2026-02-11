@@ -36,8 +36,9 @@ This repository contains an interactive Sales Dashboard built using Microsoft Ex
 7. Finalized and published the dashboard for interactive Excel analysis.
 
 ## Dashboard View
-![Dashboard View](Sales Dashboard.png)
----
+![Dashboard View](Sales_Dashboard.png)
+
+
 ## Project Insights
 - This Excel Sales Dashboard provides a clear view of business performance across regions, products, channels, and payment modes.
 - Insights reveal that the West region and Electronics category lead in total sales, with Online and Card payments dominating transactions.
